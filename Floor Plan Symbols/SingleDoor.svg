@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="77.035828mm"
+   height="28.241619mm"
+   viewBox="0 0 77.035828 28.241619"
+   version="1.1"
+   id="svg1"
+   xml:space="preserve"
+   sodipodi:docname="SingleDoor.svg"
+   inkscape:export-filename="SingleDoor.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false" /><defs
+     id="defs1" /><g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-75.587544,-298.40472)"><g
+       id="g1"
+       transform="translate(37.076271,123.47191)"><rect
+         style="fill:#000000;stroke:#000000;stroke-width:0.701141"
+         id="rect1"
+         width="26.70986"
+         height="4.5238285"
+         x="38.861843"
+         y="198.30002"
+         ry="1.6498012e-15" /><rect
+         style="fill:#000000;stroke:#000000;stroke-width:0.707235"
+         id="rect1-4"
+         width="26.703949"
+         height="4.6038303"
+         x="88.489532"
+         y="198.21698"
+         ry="1.6789772e-15" /><path
+         style="fill:#000000;stroke:#000000;stroke-width:0.978872"
+         d="m 88.626105,197.90884 -0.72047,-22.95252"
+         id="path1" /><path
+         id="path5"
+         style="fill:none;stroke:#000000;stroke-width:1.3082"
+         d="m 87.70945,175.58818 a 22.345898,22.345898 0 0 0 -0.09768,-0.001 v -2.7e-4 0 a 22.345898,22.345898 0 0 0 -22.345926,22.34592 22.345898,22.345898 0 0 0 0.0045,0.0688" /></g></g></svg>

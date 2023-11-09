@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="32.692383mm"
+   height="29.129522mm"
+   viewBox="0 0 32.692384 29.129522"
+   version="1.1"
+   id="svg1"
+   inkscape:export-filename="Sink.svg"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   sodipodi:docname="Cabinet.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-44.397798,-48.586456)">
+    <g
+       id="g1"
+       transform="translate(0.19430302,-12.596783)">
+      <path
+         id="rect1"
+         style="fill:none;stroke:#000000;stroke-width:0.75;stroke-dasharray:none"
+         d="m 52.347049,73.350202 h -7.768554 v 0 -11.791963 0 h 31.942381 v 0 11.791963 0 h -7.757185" />
+      <ellipse
+         style="fill:none;stroke:#000000;stroke-width:0.75;stroke-dasharray:none"
+         id="ellipse1-5"
+         cx="-77.74324"
+         cy="60.549686"
+         rx="12.194521"
+         ry="8.8055286"
+         transform="rotate(-90)" />
+    </g>
+  </g>
+</svg>

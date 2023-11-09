@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="61.018318mm"
+   height="28.958036mm"
+   viewBox="0 0 61.018319 28.958036"
+   version="1.1"
+   id="svg1"
+   inkscape:export-filename="ChestFreezer.svg"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   sodipodi:docname="Cabinet.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-15.972485,-48.685829)">
+    <g
+       id="g1">
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.75;stroke-dasharray:none"
+         id="rect1"
+         width="60.268322"
+         height="28.208035"
+         x="16.347485"
+         y="49.060829"
+         ry="3.5434689e-16" />
+      <ellipse
+         style="fill:none;stroke:#000000;stroke-width:0.75;stroke-dasharray:none"
+         id="path1"
+         cx="32.413609"
+         cy="63.164848"
+         rx="12.194521"
+         ry="6.6945205" />
+      <ellipse
+         style="fill:none;stroke:#000000;stroke-width:0.75;stroke-dasharray:none"
+         id="ellipse1"
+         cx="60.549686"
+         cy="63.164848"
+         rx="12.194521"
+         ry="6.6945205" />
+    </g>
+  </g>
+</svg>

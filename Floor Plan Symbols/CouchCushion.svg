@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="21.942266mm"
+   height="22.153582mm"
+   viewBox="0 0 21.942267 22.153582"
+   version="1.1"
+   id="svg1"
+   inkscape:export-filename="CouchRight.svg"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   sodipodi:docname="Cabinet.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm" />
+  <defs
+     id="defs1">
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect9"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,1.8520833,0,1 @ F,0,0,1,0,1.8520833,0,1 @ F,0,0,1,0,1.8520833,0,1 @ F,0,0,1,0,1.8520833,0,1"
+       radius="7"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-41.073219,-60.059812)">
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.75;stroke-dasharray:none"
+       id="rect8"
+       width="20.840157"
+       height="17.179535"
+       x="41.624275"
+       y="60.527596"
+       inkscape:path-effect="#path-effect9"
+       sodipodi:type="rect"
+       d="m 43.476359,60.527596 h 17.135989 a 1.8520833,1.8520833 45 0 1 1.852084,1.852083 V 75.855047 A 1.8520833,1.8520833 135 0 1 60.612348,77.70713 H 43.476359 A 1.8520833,1.8520833 45 0 1 41.624275,75.855047 V 62.379679 a 1.8520833,1.8520833 135 0 1 1.852084,-1.852083 z"
+       transform="matrix(0.80735131,0,0,1.0051748,7.7705629,-0.40406132)" />
+  </g>
+</svg>
