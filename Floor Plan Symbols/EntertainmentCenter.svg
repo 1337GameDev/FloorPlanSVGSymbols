@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="79.999992mm"
+   height="44.061714mm"
+   viewBox="0 0 79.999993 44.061714"
+   version="1.1"
+   id="svg1"
+   inkscape:export-filename="../../../../Desktop/LoungeChair.svg"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   sodipodi:docname="Cabinet.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-30.659876,-48.636694)">
+    <g
+       id="g3">
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:1.11304;stroke-dasharray:none"
+         id="rect1-8"
+         width="78.886955"
+         height="41.484703"
+         x="31.216396"
+         y="49.193214"
+         ry="5.2112723e-16" />
+      <path
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.496078;stroke-dasharray:none"
+         d="m 30.659876,91.482476 h 35"
+         id="path2" />
+      <path
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.496078;stroke-dasharray:none"
+         d="M 75.659872,91.482476 H 110.65987"
+         id="path2-1" />
+      <path
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.750001;stroke-dasharray:none"
+         d="m 65.284875,91.256243 v 1.442162 0"
+         id="path3" />
+      <path
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.750001;stroke-dasharray:none"
+         d="m 76.032758,91.234437 v 1.442162 0"
+         id="path3-5" />
+    </g>
+  </g>
+</svg>

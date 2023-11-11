@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16.56345mm"
+   height="6.5634494mm"
+   viewBox="0 0 16.56345 6.5634493"
+   version="1.1"
+   id="svg1"
+   inkscape:export-filename="Cabinet.svg"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   sodipodi:docname="Cabinet.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-30.378147,-84.280548)">
+    <g
+       id="g1">
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.75;stroke-dasharray:none"
+         id="rect1"
+         width="15.813449"
+         height="5.8134494"
+         x="30.753147"
+         y="84.655548"
+         ry="7.3028037e-17" />
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.182536;stroke-dasharray:none"
+         id="rect1-7"
+         width="15.955914"
+         height="1.8174644"
+         x="30.610682"
+         y="86.653534"
+         ry="2.2830827e-17" />
+    </g>
+  </g>
+</svg>
