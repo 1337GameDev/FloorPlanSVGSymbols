@@ -2,19 +2,19 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="34.471825mm"
-   height="33.092293mm"
-   viewBox="0 0 34.471825 33.092292"
+   width="17.235912mm"
+   height="16.546146mm"
+   viewBox="0 0 17.235912 16.546146"
    version="1.1"
    id="svg1"
    xml:space="preserve"
-   sodipodi:docname="FloodLight.svg"
+   sodipodi:docname="OutdoorOverheadLight.svg"
+   inkscape:version="1.3.1 (91b66b0, 2023-11-16)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg"><style
-     id="style6">&#10;.measure-arrow&#10;{&#10;}&#10;.measure-label&#10;{&#10;&#10;}&#10;.measure-line&#10;{&#10;}</style><sodipodi:namedview
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
      id="namedview1"
      pagecolor="#505050"
      bordercolor="#eeeeee"
@@ -22,46 +22,216 @@
      inkscape:showpageshadow="0"
      inkscape:pageopacity="0"
      inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1"
+     inkscape:deskcolor="#505050"
      inkscape:document-units="mm"
-     showgrid="false"
-     inkscape:zoom="4.4152037"
-     inkscape:cx="468.38156"
-     inkscape:cy="216.41131"
-     inkscape:window-width="1696"
-     inkscape:window-height="926"
-     inkscape:window-x="187"
-     inkscape:window-y="105"
+     inkscape:zoom="0.015610417"
+     inkscape:cx="2562.3916"
+     inkscape:cy="2562.3916"
+     inkscape:window-width="2048"
+     inkscape:window-height="1280"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="0"
-     inkscape:current-layer="layer1" /><defs
+     inkscape:current-layer="svg1" /><defs
      id="defs1"><linearGradient
-       id="swatch1"
-       inkscape:swatch="solid"><stop
+       id="swatch1"><stop
          style="stop-color:#000000;stop-opacity:1;"
          offset="0"
          id="stop1" /></linearGradient><linearGradient
-       inkscape:collect="always"
        xlink:href="#swatch1"
-       id="linearGradient3"
+       id="linearGradient16"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(1.125,0,0,1.125,-5.7224895,-23.290201)"
        x1="84.070084"
        y1="54.431793"
        x2="114.30962"
        y2="54.431793" /></defs><g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-88.630177,-21.399422)"><g
-       id="g1"><path
-         id="ellipse1-3"
-         style="fill-opacity:0;stroke:url(#linearGradient3);stroke-width:0.75"
+     transform="translate(-1322.0543,-1324.1554)"><g
+       id="g1-37"
+       transform="matrix(0.5,0,0,0.5,1277.7392,1313.4557)"><path
+         id="ellipse1-3-01"
+         style="fill-opacity:0;stroke:url(#linearGradient16);stroke-width:0.75"
          d="M 122.727,37.945568 A 16.860912,16.171146 0 0 1 105.86609,54.116714 16.860912,16.171146 0 0 1 89.005177,37.945568 16.860912,16.171146 0 0 1 105.86609,21.774422 16.860912,16.171146 0 0 1 122.727,37.945568 Z" /><path
          style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.75;stroke-dasharray:none;stroke-opacity:1"
          d="m 95.866089,27.945568 20.000001,20"
-         id="path5"
-         sodipodi:nodetypes="cc" /><path
+         id="path5-3" /><path
          style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.75;stroke-dasharray:none;stroke-opacity:1"
          d="m 95.866089,47.945568 20.000001,-20"
-         id="path6"
-         sodipodi:nodetypes="cc" /></g></g></svg>
+         id="path6-4" /></g></g><style
+     id="style6">
+.measure-arrow
+{
+}
+.measure-label
+{
+
+}
+.measure-line
+{
+}</style><style
+     id="style6-8">
+.measure-arrow
+{
+}
+.measure-label
+{
+
+}
+.measure-line
+{
+}</style><style
+     id="style6-5">
+.measure-arrow
+{
+}
+.measure-label
+{
+
+}
+.measure-line
+{
+}</style><style
+     id="style6-7">
+.measure-arrow
+{
+}
+.measure-label
+{
+
+}
+.measure-line
+{
+}</style><style
+     id="style6-9">
+.measure-arrow
+{
+}
+.measure-label
+{
+
+}
+.measure-line
+{
+}</style><style
+     id="style6-6">
+.measure-arrow
+{
+}
+.measure-label
+{
+
+}
+.measure-line
+{
+}</style><style
+     id="style6-1">
+.measure-arrow
+{
+}
+.measure-label
+{
+
+}
+.measure-line
+{
+}</style><style
+     id="style6-10">
+.measure-arrow
+{
+}
+.measure-label
+{
+
+}
+.measure-line
+{
+}</style><style
+     id="style6-11">
+.measure-arrow
+{
+}
+.measure-label
+{
+
+}
+.measure-line
+{
+}</style><style
+     id="style6-77">
+.measure-arrow
+{
+}
+.measure-label
+{
+
+}
+.measure-line
+{
+}</style><style
+     id="style6-13">
+.measure-arrow
+{
+}
+.measure-label
+{
+
+}
+.measure-line
+{
+}</style><style
+     id="style6-76">
+.measure-arrow
+{
+}
+.measure-label
+{
+
+}
+.measure-line
+{
+}</style><style
+     id="style6-3">
+.measure-arrow
+{
+}
+.measure-label
+{
+
+}
+.measure-line
+{
+}</style><style
+     id="style6-17">
+.measure-arrow
+{
+}
+.measure-label
+{
+
+}
+.measure-line
+{
+}</style><style
+     id="style6-52">
+.measure-arrow
+{
+}
+.measure-label
+{
+
+}
+.measure-line
+{
+}</style><style
+     id="style6-14">
+.measure-arrow
+{
+}
+.measure-label
+{
+
+}
+.measure-line
+{
+}</style></svg>

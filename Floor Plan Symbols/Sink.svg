@@ -2,20 +2,18 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="33.080986mm"
-   height="29.156782mm"
-   viewBox="0 0 33.080987 29.156782"
+   width="44.659332mm"
+   height="39.361656mm"
+   viewBox="0 0 44.659332 39.361656"
    version="1.1"
    id="svg1"
-   inkscape:export-filename="DoubleSink.svg"
-   inkscape:export-xdpi="96"
-   inkscape:export-ydpi="96"
-   sodipodi:docname="Cabinet.svg"
+   xml:space="preserve"
+   sodipodi:docname="Sink.svg"
+   inkscape:version="1.3.1 (91b66b0, 2023-11-16)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
-  <sodipodi:namedview
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
      id="namedview1"
      pagecolor="#505050"
      bordercolor="#eeeeee"
@@ -23,32 +21,212 @@
      inkscape:showpageshadow="0"
      inkscape:pageopacity="0"
      inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1"
-     inkscape:document-units="mm" />
-  <defs
-     id="defs1" />
-  <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.015610417"
+     inkscape:cx="1857.7339"
+     inkscape:cy="3074.8699"
+     inkscape:window-width="2048"
+     inkscape:window-height="1252"
+     inkscape:window-x="0"
+     inkscape:window-y="28"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg1" /><defs
+     id="defs1"><linearGradient
+       id="swatch1"><stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop1" /></linearGradient></defs><g
      id="layer1"
-     transform="translate(-44.009193,-48.586456)">
-    <g
-       id="g1">
-      <rect
+     transform="translate(-1500.8277,-1191.7741)"><g
+       id="g1-39"
+       transform="matrix(1.35,0,0,1.35,1441.4153,1126.1824)"><rect
          style="fill:none;stroke:#000000;stroke-width:0.75;stroke-dasharray:none"
-         id="rect1"
+         id="rect1-51"
          width="32.330986"
          height="28.406782"
          x="44.384193"
          y="48.961456"
-         ry="3.5684355e-16" />
-      <ellipse
+         ry="3.5684355e-16" /><ellipse
          style="fill:none;stroke:#000000;stroke-width:0.75;stroke-dasharray:none"
-         id="ellipse1"
+         id="ellipse1-7"
          cx="60.549686"
          cy="63.164848"
          rx="12.194521"
-         ry="6.6945205" />
-    </g>
-  </g>
-</svg>
+         ry="6.6945205" /></g></g><style
+     id="style6">
+.measure-arrow
+{
+}
+.measure-label
+{
+
+}
+.measure-line
+{
+}</style><style
+     id="style6-8">
+.measure-arrow
+{
+}
+.measure-label
+{
+
+}
+.measure-line
+{
+}</style><style
+     id="style6-5">
+.measure-arrow
+{
+}
+.measure-label
+{
+
+}
+.measure-line
+{
+}</style><style
+     id="style6-7">
+.measure-arrow
+{
+}
+.measure-label
+{
+
+}
+.measure-line
+{
+}</style><style
+     id="style6-9">
+.measure-arrow
+{
+}
+.measure-label
+{
+
+}
+.measure-line
+{
+}</style><style
+     id="style6-6">
+.measure-arrow
+{
+}
+.measure-label
+{
+
+}
+.measure-line
+{
+}</style><style
+     id="style6-1">
+.measure-arrow
+{
+}
+.measure-label
+{
+
+}
+.measure-line
+{
+}</style><style
+     id="style6-10">
+.measure-arrow
+{
+}
+.measure-label
+{
+
+}
+.measure-line
+{
+}</style><style
+     id="style6-11">
+.measure-arrow
+{
+}
+.measure-label
+{
+
+}
+.measure-line
+{
+}</style><style
+     id="style6-77">
+.measure-arrow
+{
+}
+.measure-label
+{
+
+}
+.measure-line
+{
+}</style><style
+     id="style6-13">
+.measure-arrow
+{
+}
+.measure-label
+{
+
+}
+.measure-line
+{
+}</style><style
+     id="style6-76">
+.measure-arrow
+{
+}
+.measure-label
+{
+
+}
+.measure-line
+{
+}</style><style
+     id="style6-3">
+.measure-arrow
+{
+}
+.measure-label
+{
+
+}
+.measure-line
+{
+}</style><style
+     id="style6-17">
+.measure-arrow
+{
+}
+.measure-label
+{
+
+}
+.measure-line
+{
+}</style><style
+     id="style6-52">
+.measure-arrow
+{
+}
+.measure-label
+{
+
+}
+.measure-line
+{
+}</style><style
+     id="style6-14">
+.measure-arrow
+{
+}
+.measure-label
+{
+
+}
+.measure-line
+{
+}</style></svg>

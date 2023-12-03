@@ -2,17 +2,18 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="113.09536mm"
-   height="176.82976mm"
-   viewBox="0 0 113.09536 176.82976"
+   width="28.273842mm"
+   height="44.207439mm"
+   viewBox="0 0 28.273842 44.207439"
    version="1.1"
    id="svg1"
-   sodipodi:docname="GenericAppliance.svg"
+   xml:space="preserve"
+   sodipodi:docname="Furnace.svg"
+   inkscape:version="1.3.1 (91b66b0, 2023-11-16)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
-  <sodipodi:namedview
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
      id="namedview1"
      pagecolor="#505050"
      bordercolor="#eeeeee"
@@ -21,49 +22,223 @@
      inkscape:pageopacity="0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#505050"
-     inkscape:document-units="mm" />
-  <defs
-     id="defs1" />
-  <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.015610417"
+     inkscape:cx="2882.6905"
+     inkscape:cy="2178.0328"
+     inkscape:window-width="2048"
+     inkscape:window-height="1252"
+     inkscape:window-x="0"
+     inkscape:window-y="28"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg1" /><defs
+     id="defs1"><linearGradient
+       id="swatch1"><stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop1" /></linearGradient></defs><g
      id="layer1"
-     transform="translate(-37.433537,-36.353294)">
-    <g
-       id="g3">
-      <g
-         id="g1">
-        <rect
+     transform="translate(-1245.5958,-1421.5977)"><g
+       id="g3-3"
+       transform="matrix(0.25,0,0,0.25,1236.2374,1412.5094)"><g
+         id="g1-0"><rect
            style="fill:none;stroke:#000000;stroke-width:0.75;stroke-dasharray:none;stroke-opacity:1"
-           id="rect1"
+           id="rect1-48"
            width="112.34537"
            height="176.07976"
            x="37.808537"
-           y="36.728294" />
-        <path
+           y="36.728294" /><path
            style="fill:none;stroke:#000000;stroke-width:0.750001;stroke-dasharray:none;stroke-opacity:1"
            d="M 37.808537,212.80804 150.1539,36.728294"
-           id="path1" />
-      </g>
-      <path
+           id="path1-7" /></g><path
          style="fill:#000000;stroke:#000000;stroke-width:0.750001"
          d="M 142.43353,200.07135 H 123.41991"
-         id="path2" />
-      <path
+         id="path2-59" /><path
          style="fill:#000000;stroke:#000000;stroke-width:0.750001"
          d="M 138.54739,203.86691 V 184.85329"
-         id="path3" />
-      <text
+         id="path3-53" /><text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.7556px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:#000000;stroke-width:0.750001"
          x="50.827728"
          y="61.112251"
          id="text3"><tspan
-           sodipodi:role="line"
            id="tspan3"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.7556px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.75"
            x="50.827728"
-           y="61.112251">FUR</tspan></text>
-    </g>
-  </g>
-</svg>
+           y="61.112251">FUR</tspan></text></g></g><style
+     id="style6">
+.measure-arrow
+{
+}
+.measure-label
+{
+
+}
+.measure-line
+{
+}</style><style
+     id="style6-8">
+.measure-arrow
+{
+}
+.measure-label
+{
+
+}
+.measure-line
+{
+}</style><style
+     id="style6-5">
+.measure-arrow
+{
+}
+.measure-label
+{
+
+}
+.measure-line
+{
+}</style><style
+     id="style6-7">
+.measure-arrow
+{
+}
+.measure-label
+{
+
+}
+.measure-line
+{
+}</style><style
+     id="style6-9">
+.measure-arrow
+{
+}
+.measure-label
+{
+
+}
+.measure-line
+{
+}</style><style
+     id="style6-6">
+.measure-arrow
+{
+}
+.measure-label
+{
+
+}
+.measure-line
+{
+}</style><style
+     id="style6-1">
+.measure-arrow
+{
+}
+.measure-label
+{
+
+}
+.measure-line
+{
+}</style><style
+     id="style6-10">
+.measure-arrow
+{
+}
+.measure-label
+{
+
+}
+.measure-line
+{
+}</style><style
+     id="style6-11">
+.measure-arrow
+{
+}
+.measure-label
+{
+
+}
+.measure-line
+{
+}</style><style
+     id="style6-77">
+.measure-arrow
+{
+}
+.measure-label
+{
+
+}
+.measure-line
+{
+}</style><style
+     id="style6-13">
+.measure-arrow
+{
+}
+.measure-label
+{
+
+}
+.measure-line
+{
+}</style><style
+     id="style6-76">
+.measure-arrow
+{
+}
+.measure-label
+{
+
+}
+.measure-line
+{
+}</style><style
+     id="style6-3">
+.measure-arrow
+{
+}
+.measure-label
+{
+
+}
+.measure-line
+{
+}</style><style
+     id="style6-17">
+.measure-arrow
+{
+}
+.measure-label
+{
+
+}
+.measure-line
+{
+}</style><style
+     id="style6-52">
+.measure-arrow
+{
+}
+.measure-label
+{
+
+}
+.measure-line
+{
+}</style><style
+     id="style6-14">
+.measure-arrow
+{
+}
+.measure-label
+{
+
+}
+.measure-line
+{
+}</style></svg>
